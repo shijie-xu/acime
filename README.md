@@ -1,3 +1,8 @@
+# Ancient Chinese Input Method
+- Step 1: Construct the tree for constructions of all chinese character
+- Step 2: Desgin algorithm based on the [Hidden Markov Model](https://github.com/THUzhangga/HMM_shurufa)
+
+
 # 漢語拆字字典
 
 ## 說明
